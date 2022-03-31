@@ -1,0 +1,10 @@
+fastapi
+typing
+uvicorn
+gunicorn
+pydantic
+sqlalchemy
+cryptography
+pymssql
+PyMySQL
+mangum
